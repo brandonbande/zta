@@ -26,3 +26,7 @@
 .col-xs-4:nth-child(2n+2) {
     background: black;
 }
+
+.img{
+    max-height: 500px;
+}
