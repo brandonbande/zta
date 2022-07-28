@@ -14,7 +14,7 @@
             <div class="container-fluid personal">
               <a class="navbar-brand" href="#">
                 <img src="img/logo.webp" alt="" width="30" height="24" class="d-inline-block align-text-top">
-                INJABULO
+                Injabulo
               </a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
