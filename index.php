@@ -75,57 +75,41 @@
           </div>
 
            <!--Carousel for posts-->
-           <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <div class="row">
-                    <div class="col-3">
-                        Hi
+           <div class="container">
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="img/vicfalls.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>First slide label</h5>
+                      <p>Some representative placeholder content for the first slide.</p>
                     </div>
-                    <div class="col-3">
-                        There
+                  </div>
+                  <div class="carousel-item">
+                    <img src="img/hwange.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>Second slide label</h5>
+                      <p>Some representative placeholder content for the second slide.</p>
                     </div>
-                    <div class="col-3">
-                        My
+                  </div>
+                  <div class="carousel-item">
+                    <img src="img/gz.jpg" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5>Third slide label</h5>
+                      <p>Some representative placeholder content for the third slide.</p>
                     </div>
-                    <div class="col-3">
-                        Boy
-                    </div>
+                  </div>
                 </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
               </div>
-              <div class="carousel-item">
-                <div class="row">
-                    <div class="col-3">
-                        Hi
-                    </div>
-                    <div class="col-3">
-                        There
-                    </div>
-                    <div class="col-3">
-                        My
-                    </div>
-                    <div class="col-3">
-                        Boy
-                    </div>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="row">
-                    <div class="col-3">
-                        Hi
-                    </div>
-                    <div class="col-3">
-                        There
-                    </div>
-                    <div class="col-3">
-                        My
-                    </div>
-                    <div class="col-3">
-                        Boy
-                    </div>
-                </div>
-              </div>
-            </div>
           </div>
 
           <!--Footer Starts Here-->
@@ -133,7 +117,7 @@
             <div class="container py-4">
                 <div class="row gy-4 gx-5">
                    
-                    <div class="col-lg-6 col-md-6">
+                    <div class="col-md-6">
                         <h5 class="text-white mb-3">Quick links</h5>
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
@@ -144,55 +128,47 @@
                               </h2>
                               <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  Rich with natural beauty , cultural heritage 
+                                  Rich with natural beauty , cultural heritage and game viewing , the Zimbabwean landscape is a pleasure for eyes as it offers one of the natural wonders of the world Victoria falls , the relics of the past world in Great Zimbabwe and Khami ruins.To top it off there is a wild variety of game where over 30 species including 13 endangered ones.
                                 </div>
                               </div>
                             </div>
                             <div class="accordion-item">
                               <h2 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                  Accordion Item #2
+                                  How much does it cost to visit Zimbabwe?
                                 </button>
                               </h2>
                               <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                  From as little as USD 250 you can visit Zimbabwe from neighbouring countries.For those overseas from as little as USD 2000 you can enjoy the Zimbabwean safari for a week via our special packages from our partners.For the locals from as little as USD 25 you can have a wonderful day out in one of our partners' locations.
                                 </div>
                               </div>
                             </div>
                             <div class="accordion-item">
                               <h2 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                  Accordion Item #3
+                                  How safe is it to travel to Zimbabwe?
                                 </button>
                               </h2>
                               <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                                  For over 3 decades , Zimbabwe has been enjoying a lot of peace and national stability.It is one of the top 50 safe tourist destinations in the world and ranks in the top 5 in its region.
                                 </div>
                               </div>
                             </div>
                           </div>
                     </div>
-                    <div class="col-lg-2 col-md-6">
+                    <div class="col-md-6" style="margin-left : 30px;">
                         <h5 class="text-white mb-3">Quick links</h5>
                         <ul class="list-unstyled text-muted">
                             <li><a href="#">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Get started</a></li>
-                            <li><a href="#">FAQ</a></li>
+                            <li><a href="#">Posts</a></li>
+                            <li><a href="#">Places</a></li>
+                            <li><a href="https://vacancymail.co.zw/categories/tourism-jobs-in-zimbabwe">Vacancies</a></li>
+                            
                         </ul>
                     </div>
-                    <div class="col-lg-4 col-md-6">
-                        <h5 class="text-white mb-3">Newsletter</h5>
-                        <p class="small text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-                        <form action="#">
-                            <div class="input-group mb-3">
-                                <input class="form-control" type="text" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2">
-                                <button class="btn btn-primary" id="button-addon2" type="button"><i class="fas fa-paper-plane"></i></button>
-                            </div>
-                        </form>
-                    </div>
+        
                 </div>
             </div>
         </footer>
