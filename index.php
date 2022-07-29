@@ -79,7 +79,7 @@
            <div class="container">
               <div class="row">
                 <h1><strong>Latest News</strong></h1>
-                <img src="img/" height="90px" width = "">
+                <img src="img/vicfalls.jpg" height="90px" width = "">
                 <h2>ZTA hosts ZTA challenge in different cities</h2>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim voluptatum accusantium sed laboriosam sapiente numquam hic corrupti sequi quam minima, quas deserunt animi dicta nobis.</p>
 
@@ -89,7 +89,7 @@
            <div class="container">
               <div class="row">
                 <h1><strong>Weather Updates</strong></h1>
-                <img src="img/" height="90px" width = "">
+                <img src="img/gz.jpg" height="90px" width = "">
                 <h2>Day</h2>
                 <p>Max - 25 <br> Min - 15</p>
                 <h2>Night</h2>

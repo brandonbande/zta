@@ -38,7 +38,15 @@
             <h1><strong>Popular Places</strong></h1>
             <div class="row">
             <a href="#">
-              <img src="img/" alt="" height="100px">
+              <img src="img/hwange.jpg" alt="" height="100px">
+              <h1>Hwange National Park</h1>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime autem odit ea error. Quasi sapiente fugiat iure quo dolorem. Ab sint fuga animi ea enim!</p>
+            </a>
+            </div>
+
+            <div class="row">
+            <a href="#">
+              <img src="img/vicfalls.jpg" alt="" height="100px">
               <h1>Victoria Falls</h1>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime autem odit ea error. Quasi sapiente fugiat iure quo dolorem. Ab sint fuga animi ea enim!</p>
             </a>
@@ -46,15 +54,7 @@
 
             <div class="row">
             <a href="#">
-              <img src="img/" alt="" height="100px">
-              <h1>Great Zimbabwe</h1>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime autem odit ea error. Quasi sapiente fugiat iure quo dolorem. Ab sint fuga animi ea enim!</p>
-            </a>
-            </div>
-
-            <div class="row">
-            <a href="#">
-              <img src="img/" alt="" height="100px">
+              <img src="img/gz.jpg" alt="" height="100px">
               <h1>Great Zimbabwe</h1>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime autem odit ea error. Quasi sapiente fugiat iure quo dolorem. Ab sint fuga animi ea enim!</p>
             </a>
