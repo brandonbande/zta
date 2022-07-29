@@ -30,7 +30,8 @@
           </nav>
 
           <div class="container">
-            Hey
+           
+          
           </div>
           <!--Carousel for main page-->
           <div class="container">
@@ -51,15 +52,15 @@
                   <div class="carousel-item">
                     <img src="img/hwange.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                      <h5>Second slide label</h5>
-                      <p>Some representative placeholder content for the second slide.</p>
+                      <h5>Game Viewing</h5>
+                      <p>Come and experience the African wilderness at its fullest</p>
                     </div>
                   </div>
                   <div class="carousel-item">
                     <img src="img/gz.jpg" class="d-block w-100" alt="...">
                     <div class="carousel-caption d-none d-md-block">
-                      <h5>Third slide label</h5>
-                      <p>Some representative placeholder content for the third slide.</p>
+                      <h5>Ancient relics</h5>
+                      <p>Take a sneak into history and see the experiences of previous generations</p>
                     </div>
                   </div>
                 </div>
@@ -76,42 +77,26 @@
 
            <!--Carousel for posts-->
            <div class="container">
-            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-                
-                <div class="carousel-inner">
-                  <div class="carousel-item active">
-                    <img src="img/vicfalls.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                      <h5>First slide label</h5>
-                      <p>Some representative placeholder content for the first slide.</p>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <img src="img/hwange.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                      <h5>Second slide label</h5>
-                      <p>Some representative placeholder content for the second slide.</p>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <img src="img/gz.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                      <h5>Third slide label</h5>
-                      <p>Some representative placeholder content for the third slide.</p>
-                    </div>
-                  </div>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                  <span class="visually-hidden">Next</span>
-                </button>
-              </div>
-          </div>
+              <div class="row">
+                <h1><strong>Latest News</strong></h1>
+                <img src="img/" height="90px" width = "">
+                <h2>ZTA hosts ZTA challenge in different cities</h2>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim voluptatum accusantium sed laboriosam sapiente numquam hic corrupti sequi quam minima, quas deserunt animi dicta nobis.</p>
 
+              </div>
+           </div>
+
+           <div class="container">
+              <div class="row">
+                <h1><strong>Weather Updates</strong></h1>
+                <img src="img/" height="90px" width = "">
+                <h2>Day</h2>
+                <p>Max - 25 <br> Min - 15</p>
+                <h2>Night</h2>
+                <p>Max - 15 <br> Min - 03</p>
+              </div>
+           </div>
+           
           <!--Footer Starts Here-->
           <footer class="w-100 py-4 flex-shrink-0">
             <div class="container py-4">
